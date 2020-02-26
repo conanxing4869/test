@@ -12,3 +12,6 @@ git reset --hard 版本号
 git checkout -- ..
 rm ..
 git push origin master
+git clone
+git checkout -b dev
+git branch
