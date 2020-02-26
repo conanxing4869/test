@@ -9,3 +9,5 @@ git reset --hard HEAD^
 cat ..
 git reflog
 git reset --hard 版本号
+git checkout -- ..
+rm ..
