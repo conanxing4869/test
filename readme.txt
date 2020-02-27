@@ -13,5 +13,8 @@ git checkout -- ..
 rm ..
 git push origin master
 git clone
-git checkout -b dev
+git checkout -b dev创建切换分支
 git branch
+git merge ..合并
+git branch -d ..删除分支
+44
